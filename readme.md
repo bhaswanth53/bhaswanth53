@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaswanth53" alt="bhaswanth53" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://bhaswanth.com](https://bhaswanth.com)
 
